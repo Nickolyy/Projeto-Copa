@@ -1,0 +1,54 @@
+
+html,body{
+    margin: 0px;
+    padding:0px;
+    width: 1900px;
+    height: 2000px;
+        background-image: linear-gradient(to right, rgb(154, 14, 51), rgb(71, 2, 23), rgb(177, 4, 4));
+       
+    
+
+}
+header{
+    background-color: rgb(240, 240, 240);
+    padding: 8px;
+   width: 1900px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.logo{
+    width: 200px;
+}
+.menu li{
+    display:inline;
+    margin: 0 8px;
+}
+.sim{
+    background-color: rgb(190, 69, 116);
+    padding: 10px;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    display: inline;
+    
+
+}
+h1{
+
+    font-size: 300%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:aliceblue;
+    text-shadow: 3px 3px black;
+    
+}
+.al{
+    display:inline;
+    margin-left: auto;
+    margin-right: auto;
+max-width: 15%; 
+padding:20px 20px 20px 20px ;
+}
